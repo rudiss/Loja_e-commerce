@@ -1,0 +1,49 @@
+.alinhado-centro{
+	text-align: center;
+}
+.borda-base{
+	border-bottom: solid 1px #BBB;
+}
+.borda-topo{
+	border-top: solid 1px #BBB;
+}
+.espaco-vertical{
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	margin-top: 10px;
+}
+
+#form_cadastro input{
+	width: 100%;
+}
+
+#cadastro-e-login{
+	float: right;
+	clear: none;
+}
+
+.a-direita{
+	float: right;
+}
+.linha-carrinho{
+	line-height: 80px; padding-bottom: 5px;
+	border-bottom: #CCC solid 1px;
+}
+.linha-carrinho input[type=text]{
+	width: 70%;
+}
+.miniatura{
+	width: 80px; max-height:80px;
+	vertical-align: middle;
+}
+.texto-direita{
+	text-align: right;
+}
+
+.caixacategoria img{
+	float:left;
+	width: 100px;
+	margin-right:5px;
+	margin-bottom:5px;
+}
